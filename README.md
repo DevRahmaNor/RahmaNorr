@@ -44,17 +44,6 @@ I'm an AI Full-Stack Engineer passionate about building modern web applications 
 
 ---
 
-## 📚 Academic Knowledge
-
-- Object-Oriented Programming (OOP)
-- Data Structures using Java
-- C# Programming
-- System Analysis and Design
-- Database Management
-- Advanced Network Technology
-- IP Addressing, Static Routing, and RIPv2
-
----
 
 ## 🚀 Featured Projects
 
